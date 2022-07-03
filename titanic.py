@@ -112,7 +112,7 @@ print('KNN : ' ,accuracy_score(y_test,y_knnp))
 
 
 '''
-OUTPUT 
+OUTPUT :
 SVM :  0.6746031746031746
 Neural Networks :  0.6746031746031746
 KNN :  0.6984126984126984
